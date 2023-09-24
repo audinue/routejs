@@ -1,0 +1,2 @@
+# routejs
+Static HTML routing.
